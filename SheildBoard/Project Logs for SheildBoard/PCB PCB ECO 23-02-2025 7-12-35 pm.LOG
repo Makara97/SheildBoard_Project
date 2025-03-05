@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C3 Old Footprint=CAP_2012_TDK New Footprint=6-0805_M
+Change Component Footprint: Designator=C4 Old Footprint=CAP_2012_TDK New Footprint=6-0805_M
+Change Component Footprint: Designator=C5 Old Footprint=CAP_2012_TDK New Footprint=6-0805_M
+Change Component Footprint: Designator=C1 Old Footprint=CAP_2012_TDK New Footprint=6-0805_N
+Change Component Footprint: Designator=C2 Old Footprint=CAP_X7R_0805_AVX New Footprint=6-0805_N
+Change Component Footprint: Designator=R1 Old Footprint=YAG_R0201_YAG New Footprint=0603
+Added Room: Name=Schematic
