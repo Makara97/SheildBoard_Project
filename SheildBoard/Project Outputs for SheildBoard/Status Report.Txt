@@ -1,0 +1,10 @@
+Output: AutoCAD dwg/dxf File Schematic
+Type  : AutoCAD SCH
+From  : Schematic Document [Schematic.SchDoc]
+   Generated File[Schematic.DWG]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:33:23 pm On 07/03/2025

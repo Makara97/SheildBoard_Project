@@ -1,0 +1,193 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 8 15.875 13.17500032 270 N U1 TPS562200DDCR ;0=1,1=0.0000
+PRP Address1 'Not shown in title block'
+PRP Address2 'Not shown in title block'
+PRP Address3 'Not shown in title block'
+PRP Address4 'Not shown in title block'
+PRP Alternate_Manufacturer 'None'
+PRP ApprovedBy 'Not shown in title block'
+PRP Author 'Not shown in title block'
+PRP CheckedBy 'Not shown in title block'
+PRP CompanyName 'Not shown in title block'
+PRP ComponentLink1Description 'Datasheet Link'
+PRP ComponentLink1URL 'https://sps06.itg.ti.com/sites/KMS/crossdivteams/altium/docs/ComponentDatasheets/TPS562200_DS_v08_13_0909.docx'
+PRP CompType 'IC'
+PRP CurrentDate 'Not shown in title block'
+PRP CurrentTime 'Not shown in title block'
+PRP Date 'Not shown in title block'
+PRP DocumentFullPathAndName 'Not shown in title block'
+PRP DocumentName 'Not shown in title block'
+PRP DocumentNumber '1'
+PRP Engineer 'Not shown in title block'
+PRP ImagePath 'Not shown in title block'
+PRP LatestRevisionDate '2014-02-20'
+PRP Manufacturer 'Texas Instruments'
+PRP Mfr_Name 'Texas Instruments'
+PRP ModifiedDate 'Not shown in title block'
+PRP MountType 'SMT'
+PRP Organization 'Not shown in title block'
+PRP PackageReference 'DDC0006A'
+PRP PartNumber 'TPS562200DDC'
+PRP ProjectName ''
+PRP Publisher 'Texas Instruments'
+PRP RefDes 'Refdes'
+PRP Revision 'Use project parameter SCH_Rev'
+PRP RoHS 'Y'
+PRP Rule ''
+PRP SheetNumber '1'
+PRP SheetTotal '1'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '595-TPS562200DDCR'
+PRP SymbolCreator 'a0411947'
+PRP SymbolVersion '2013-09-26'
+PRP Time 'Not shown in title block'
+PRP Type 'Type'
+PRP U/M 'EA'
+TOP 0 15.875 13.17500032 270 N 7 14 1
+TOP 1 16.82500064 13.17500032 270 N 1 2 2
+TOP 2 17.77500128 13.17500032 270 N 30 6 3
+TOP 3 17.77500128 15.875 270 N 3 2 4
+TOP 4 16.82500064 15.875 270 N 30 5 5
+TOP 5 15.875 15.875 270 N 4 1 6
+#
+# CMP 1
+CMP 0 24.765 15.875 270 N R2 RC0201FR-0756K2L ;0=1,1=0.5500
+PRP Mfr_Name 'Yageo'
+PRP RefDes ''
+PRP Supplier_1 'Future Electronics'
+PRP Supplier_Part_Number_1 '5109860'
+PRP Type 'Chip Resistor - Surface Mount'
+TOP 0 24.76499746 15.5250007 180 N 7 12 1
+TOP 1 24.76499746 16.22500184 180 N 3 0 2
+#
+# CMP 2
+CMP 0 28.575 15.875 90 N R1 RC0201FR-0710KL ;0=1,1=0.5500
+PRP Mfr_Name 'Yageo'
+PRP RefDes ''
+PRP Supplier_1 'Future Electronics'
+PRP Supplier_Part_Number_1 '4031233'
+PRP Type ''
+TOP 0 28.57500254 16.2249993 0 N 3 1 1
+TOP 1 28.57500254 15.52499816 0 N 31 5 2
+#
+# CMP 3
+CMP 7 22.86 10.795 180 N L1 SRN6045-4R7Y ;0=1,1=0.0000
+PRP Mfr_Name 'Bourns Electronics'
+PRP RefDes ''
+PRP Type ''
+TOP 0 25.00999824 10.795 180 N 31 6 1
+TOP 1 20.70999922 10.795 180 N 1 1 2
+#
+# CMP 4
+CMP 4 17.78 50.8 270 N JP4 Pin_header_1x10 ;0=2,1=0.0000
+TOP 0 17.78 50.8 270 N 24 0 1
+TOP 1 20.32 50.8 270 N 23 0 2
+TOP 2 22.86 50.8 270 N 22 0 3
+TOP 3 25.4 50.8 270 N 7 2 4
+TOP 4 27.94 50.8 270 N 8 0 5
+TOP 5 30.48 50.8 270 N 9 0 6
+TOP 6 33.02 50.8 270 N 10 0 7
+TOP 7 35.56 50.8 270 N 11 0 8
+TOP 8 38.1 50.8 270 N 12 0 9
+TOP 9 40.64 50.8 270 N 13 0 10
+#
+# CMP 5
+CMP 6 27.94 2.54 270 N JP3 Pin_header_1x8 ;0=2,1=0.0000
+TOP 0 27.94 2.54 270 N 5 0 1
+TOP 1 30.48 2.54 270 N 6 0 2
+TOP 2 33.02 2.54 270 N 2 0 3
+TOP 3 35.56 2.54 270 N 29 0 4
+TOP 4 38.1 2.54 270 N 31 3 5
+TOP 5 40.64 2.54 270 N 7 4 6
+TOP 6 43.18 2.54 270 N 7 3 7
+TOP 7 45.72 2.54 270 N 31 2 8
+#
+# CMP 6
+CMP 6 45.72 50.8 270 N JP2 Pin_header_1x8 ;0=2,1=0.0000
+TOP 0 45.72 50.8 270 N 14 0 1
+TOP 1 48.26 50.8 270 N 15 0 2
+TOP 2 50.8 50.8 270 N 16 0 3
+TOP 3 53.34 50.8 270 N 17 0 4
+TOP 4 55.88 50.8 270 N 18 0 5
+TOP 5 58.42 50.8 270 N 19 0 6
+TOP 6 60.96 50.8 270 N 20 0 7
+TOP 7 63.5 50.8 270 N 21 0 8
+#
+# CMP 7
+CMP 5 50.8 2.54 270 N JP1 Pin_header_1x6 ;0=2,1=0.0000
+TOP 0 50.8 2.54 270 N 28 0 1
+TOP 1 53.34 2.54 270 N 27 0 2
+TOP 2 55.88 2.54 270 N 26 0 3
+TOP 3 58.42 2.54 270 N 25 0 4
+TOP 4 60.96 2.54 270 N 24 1 5
+TOP 5 63.5 2.54 270 N 23 1 6
+#
+# CMP 8
+CMP 3 44.45 29.21 0 N D2 MKRAWT-00-0000-0D0HG235H ;0=1,1=4.2100
+TOP 0 41.45000092 29.21 0 N 30 1 1
+TOP 1 47.44999908 29.21 0 N 7 5 2
+TOP 2 44.45 29.21 0 N 7 6 3
+#
+# CMP 9
+CMP 3 44.45 38.735 0 N D1 MKRAWT-00-0000-0D0HG235H ;0=1,1=4.2100
+TOP 0 41.45000092 38.735 0 N 30 2 1
+TOP 1 47.44999908 38.735 0 N 7 7 2
+TOP 2 44.45 38.735 0 N 7 8 3
+#
+# CMP 10
+CMP 1 11.43 15.1511 270 N C5 C2012X5R1V106K085AC ;0=1,1=0.7000
+PRP Mfr_Name 'TDK'
+PRP RefDes ''
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '445-14417-1-ND'
+PRP Type ''
+TOP 0 11.43 14.15109946 180 N 7 11 1
+TOP 1 11.43 16.15110054 180 N 30 4 2
+#
+# CMP 11
+CMP 1 8.89 15.1511 270 N C4 C2012X5R1V106K085AC ;0=1,1=0.7000
+PRP Mfr_Name 'TDK'
+PRP RefDes ''
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '445-14417-1-ND'
+PRP Type ''
+TOP 0 8.89 14.15109946 180 N 7 10 1
+TOP 1 8.89 16.15110054 180 N 30 3 2
+#
+# CMP 12
+CMP 1 33.02 16.51 90 N C3 C2012X5R1V106K085AC ;0=1,1=0.7000
+PRP Mfr_Name 'TDK'
+PRP RefDes ''
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '445-14417-1-ND'
+PRP Type ''
+TOP 0 33.02 17.51000054 0 N 7 9 1
+TOP 1 33.02 15.50999946 0 N 31 4 2
+#
+# CMP 13
+CMP 2 13.97 8.89 0 N C2 08053C104KAT2A ;0=1,1=0.7000
+PRP Mfr_Name 'KYOCERA AVX'
+PRP RefDes ''
+PRP Supplier_1 'Avnet'
+PRP Supplier_Part_Number_1 '96M1381'
+PRP Type ''
+TOP 0 13.0700018 8.89000254 270 N 4 0 1
+TOP 1 14.87000074 8.89000254 270 N 1 0 2
+#
+# CMP 14
+CMP 2 36.195 16.51 90 N C1 C2012X5R1V106K085AC ;0=1,1=0.7000
+PRP Mfr_Name 'TDK'
+PRP RefDes ''
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '445-14417-1-ND'
+PRP Type ''
+TOP 0 36.19500254 17.4099982 0 N 7 13 1
+TOP 1 36.19500254 15.60999926 0 N 31 7 2
+#

@@ -1,0 +1,28 @@
+Altium Designer Pick and Place Locations
+C:\Users\kavin\Desktop\Altium Testing\ShieldBoard\SheildBoard_Project\SheildBoard\Project Outputs for SheildBoard\Pick Place\Pick Place for PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       07/03/25
+Time:       14:33
+Revision:   846ad4840b542ed527bc0e1ce8c3a5fed2839a7e
+Variant:    No variations
+Units used: mil
+
+Designator Comment                  Layer    Footprint       Center-X(mil) Center-Y(mil) Rotation Description                                        
+U1         TPS562200DDCR            TopLayer TPS562200DDCR   662.402       571.850       90       "No Description Available"                         
+R2         RC0201FR-0756K2L         TopLayer 0603            975.000       625.000       90       "No Description Available"                         
+R1         RC0201FR-0710KL          TopLayer 0603            1125.000      625.000       270      RC0201FR-0710KL                                    
+L1         SRN6045-4R7Y             TopLayer SRN6045-4R7Y    900.000       425.000       180      "No Description Available"                         
+JP4        Pin_header_1x10          TopLayer Pin_header_1x10 1150.000      2000.000      90       Pin_header_1x10                                    
+JP3        Pin_header_1x8           TopLayer Pin_header_1x8  1450.000      100.000       90       Pin_header_1x8                                     
+JP2        Pin_header_1x8           TopLayer Pin_header_1x8  2150.000      2000.000      90       Pin_header_1x8                                     
+JP1        Pin_header_1x6           TopLayer Pin_header_1x6  2250.000      100.000       90       Pin_header_1x6                                     
+D2         MKRAWT-00-0000-0D0HG235H TopLayer CREE-MK-R-2_V   1750.000      1150.000      0        "LED, White, 12 V, 2-Pin SMD, RoHS, Tape and Reel" 
+D1         MKRAWT-00-0000-0D0HG235H TopLayer CREE-MK-R-2_V   1750.000      1525.000      0        "LED, White, 12 V, 2-Pin SMD, RoHS, Tape and Reel" 
+C5         C2012X5R1V106K085AC      TopLayer 6-0805_M        450.000       596.500       90       C2012X5R1V106K085AC                                
+C4         C2012X5R1V106K085AC      TopLayer 6-0805_M        350.000       596.500       90       C2012X5R1V106K085AC                                
+C3         C2012X5R1V106K085AC      TopLayer 6-0805_M        1300.000      650.000       270      C2012X5R1V106K085AC                                
+C2         08053C104KAT2A           TopLayer 6-0805_N        550.000       350.000       0        08053C104KAT2A                                     
+C1         C2012X5R1V106K085AC      TopLayer 6-0805_N        1425.000      650.000       270      C2012X5R1V106K085AC                                
